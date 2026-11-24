@@ -172,6 +172,7 @@ Esse comando gera as imagens em alta resolução (`grafo_malha_viaria.png` e `gr
 ## 📚 Referências
 
 - CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. **Algoritmos: Teoria e Prática**. 3. ed. Rio de Janeiro: Elsevier, 2012.
+- COSTA, P. H. **Aplicação do Algoritmo de Dijkstra na Otimização de Rotas de Entrega de Medicamentos no Município da Serra**. Repositório GitHub, 2026. Disponível em: <https://github.com/Czzped/Algoritmo-de-Dijkstra-na-Otimizacao-de-Rotas-de-Entrega-de-Medicamentos-no-Municipio-da-Serra>. Acesso em: 23 nov. 2026.
 - DIJKSTRA, E. W. A note on two problems in connexion with graphs. **Numerische Mathematik**, v. 1, n. 1, p. 269–271, 1959.
 - MENDONÇA, P. F.; KESTRING, F. B. F.; SILVA, F. P. Um estudo sobre algoritmos para roteirização. **Revista Eletrônica Científica Inovação e Tecnologia**, v. 8, n. 18, p. e-5122, 2017.
 - SILVA, D. F. Aplicação conjunta do método de Dijkstra e otimização combinatória para solução do problema do caixeiro viajante. In: **Simpósio de Excelência em Gestão e Tecnologia (SEGeT)**, VI, 2009.
